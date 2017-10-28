@@ -1,0 +1,1 @@
+var postperpage=POST_PER_PAGE;var numshowpage=5;var upPageWord=&quot;Prev&quot;;var downPageWord=&quot;Next&quot;;var urlactivepage=location.href;var home_page=&quot;/&quot;;
