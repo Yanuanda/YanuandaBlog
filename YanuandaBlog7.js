@@ -1,1 +1,0 @@
-/*<![CDATA[*/$(document).ready(function(){$(".widget h2").wrapInner("<span></span>")});(function(e,a,f){var c,b=e.getElementsByTagName(a)[0];if(e.getElementById(f)){return}c=e.createElement(a);c.id=f;c.src="https://connect.facebook.net/id_ID/sdk.js#xfbml=1&version=v2.10&appId=1920677808203310";b.parentNode.insertBefore(c,b)}(document,"script","facebook-jssdk"));/*]]>*/
